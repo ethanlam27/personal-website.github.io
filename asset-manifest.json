@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/www.ethan-lam.com/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/www.ethan-lam.com/static/js/main.d28d9694.chunk.js",
-    "main.js.map": "/www.ethan-lam.com/static/js/main.d28d9694.chunk.js.map",
+    "main.js": "/www.ethan-lam.com/static/js/main.8c20f07f.chunk.js",
+    "main.js.map": "/www.ethan-lam.com/static/js/main.8c20f07f.chunk.js.map",
     "runtime-main.js": "/www.ethan-lam.com/static/js/runtime-main.12d8c7cc.js",
     "runtime-main.js.map": "/www.ethan-lam.com/static/js/runtime-main.12d8c7cc.js.map",
-    "static/js/2.7599c84a.chunk.js": "/www.ethan-lam.com/static/js/2.7599c84a.chunk.js",
-    "static/js/2.7599c84a.chunk.js.map": "/www.ethan-lam.com/static/js/2.7599c84a.chunk.js.map",
+    "static/js/2.89864034.chunk.js": "/www.ethan-lam.com/static/js/2.89864034.chunk.js",
+    "static/js/2.89864034.chunk.js.map": "/www.ethan-lam.com/static/js/2.89864034.chunk.js.map",
     "static/js/3.63fb59fc.chunk.js": "/www.ethan-lam.com/static/js/3.63fb59fc.chunk.js",
     "static/js/3.63fb59fc.chunk.js.map": "/www.ethan-lam.com/static/js/3.63fb59fc.chunk.js.map",
     "index.html": "/www.ethan-lam.com/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/www.ethan-lam.com/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.7599c84a.chunk.js.LICENSE.txt": "/www.ethan-lam.com/static/js/2.7599c84a.chunk.js.LICENSE.txt",
+    "static/js/2.89864034.chunk.js.LICENSE.txt": "/www.ethan-lam.com/static/js/2.89864034.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/www.ethan-lam.com/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.12d8c7cc.js",
-    "static/js/2.7599c84a.chunk.js",
+    "static/js/2.89864034.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.d28d9694.chunk.js"
+    "static/js/main.8c20f07f.chunk.js"
   ]
 }
